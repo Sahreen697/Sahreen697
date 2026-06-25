@@ -1,7 +1,7 @@
 # Hi, I'm Sahreen Rafiq 👋
 
 <p align="center">
-  <b>Aspiring Data Analyst | Business Intelligence Analyst</b>
+  <b>Aspiring Data Analyst | Business Intelligence Enthusiast</b>
 </p>
 
 <p align="center">
@@ -94,20 +94,46 @@ Excel dashboard analyzing child malnutrition, underweight prevalence, mortality 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Analytics Journey
 
-<details>
-<summary>Click to view my GitHub statistics</summary>
+<details open>
+<summary>Click to view my analytics skills and goals</summary>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahreen697&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+### 💼 Skills Progress
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahreen697&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+| Skill | Focus Level |
+|---|---|
+| Power BI | █████████░ 90% |
+| Excel | █████████░ 90% |
+| Tableau | ████████░░ 80% |
+| SQL | ███████░░░ 70% |
+| Python | ██████░░░░ 60% |
+| Microsoft Access | ███████░░░ 70% |
+
+<br>
+
+### 🏆 Analytics Expertise
+
+- Dashboard Development
+- Data Cleaning & Transformation
+- Data Visualization
+- Business Intelligence Reporting
+- Data Storytelling
+- KPI Analysis
+- SQL Queries
+- Excel Analytics
+
+<br>
+
+### 🎯 2026 Goals
+
+- Build a professional analytics portfolio
+- Improve SQL and Python skills
+- Learn advanced Power BI and DAX
+- Create more real-world dashboard projects
+- Secure a paid Data Analyst or BI co-op opportunity
 
 </details>
 
